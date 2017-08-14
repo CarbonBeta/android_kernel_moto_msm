@@ -1725,6 +1725,7 @@ CONFIG_UNIX98_PTYS=y
 # CONFIG_TRACE_SINK is not set
 # CONFIG_DEVMEM is not set
 # CONFIG_DEVKMEM is not set
+<<<<<<< HEAD
 
 #
 # Serial drivers
@@ -1801,7 +1802,7 @@ CONFIG_HW_RANDOM_MSM=y
 # CONFIG_APPLICOM is not set
 # CONFIG_RAW_DRIVER is not set
 # CONFIG_TCG_TPM is not set
-CONFIG_DEVPORT=y
+# CONFIG_DEVPORT is not set
 CONFIG_MSM_SMD_PKT=y
 CONFIG_MSM_ADSPRPC=y
 # CONFIG_MSM_RDBG is not set
